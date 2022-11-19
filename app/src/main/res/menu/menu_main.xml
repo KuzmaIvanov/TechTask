@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/students"
+        android:title="@string/students"
+        />
+
+    <item
+        android:id="@+id/lecturers"
+        android:title="@string/lecturers"
+        />
+
+    <item
+        android:id="@+id/departments"
+        android:title="@string/departments"
+        />
+
+    <item
+        android:id="@+id/groups"
+        android:title="@string/groups"
+        />
+
+    <item
+        android:id="@+id/dorms"
+        android:title="@string/dorms"
+        />
+
+    <item
+        android:id="@+id/firstQuery"
+        android:title="@string/first_query"
+        />
+    <item
+        android:id="@+id/secondQuery"
+        android:title="@string/second_query"
+        />
+
+</menu>

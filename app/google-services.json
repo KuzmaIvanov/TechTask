@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347613100788",
+    "project_id": "techtask-3941c",
+    "storage_bucket": "techtask-3941c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347613100788:android:62acce1b99ce5d2aa0fca1",
+        "android_client_info": {
+          "package_name": "com.example.techtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347613100788-khl3kkrds0soll2foqs6nvp1h407vvf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANW7YYavtfe5mwZeqx-2xsruIliqZAcYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347613100788-khl3kkrds0soll2foqs6nvp1h407vvf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

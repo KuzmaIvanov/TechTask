@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TechTask</string>
+    <string name="students">Students</string>
+    <string name="lecturers">Lecturers</string>
+    <string name="departments">Departments</string>
+    <string name="groups">Groups</string>
+    <string name="dorms">Dorms</string>
+    <string name="first_query">First Query</string>
+    <string name="second_query">Second Query</string>
+    <string name="third_query">Third Query</string>
+    <string name="first_query_description">Students who have idScientificAdvisor more than 5 and idDorm less than 10: </string>
+    <string name="second_query_description">Choose dorms that have time to uni less than 1 hour: </string>
+</resources>
